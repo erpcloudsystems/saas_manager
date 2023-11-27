@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include saas_manager *.css
+recursive-include saas_manager *.csv
+recursive-include saas_manager *.html
+recursive-include saas_manager *.ico
+recursive-include saas_manager *.js
+recursive-include saas_manager *.json
+recursive-include saas_manager *.md
+recursive-include saas_manager *.png
+recursive-include saas_manager *.py
+recursive-include saas_manager *.svg
+recursive-include saas_manager *.txt
+recursive-exclude saas_manager *.pyc
