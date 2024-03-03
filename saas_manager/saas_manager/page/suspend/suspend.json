@@ -1,0 +1,22 @@
+{
+ "content": null,
+ "creation": "2022-07-05 10:31:19.611791",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2022-07-05 10:31:19.611791",
+ "modified_by": "Administrator",
+ "module": "Saas Manager",
+ "name": "suspend",
+ "owner": "Administrator",
+ "page_name": "suspend",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 1
+}
